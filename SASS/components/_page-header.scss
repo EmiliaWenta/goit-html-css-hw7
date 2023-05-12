@@ -1,0 +1,26 @@
+@import "../utils/vars";
+
+.line {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #ececec;
+}
+
+.page-header {
+  background-color: getColor("white");
+  padding-top: 25px;
+  padding-bottom: 25px;
+  gap: 0px;
+}
+
+.page-header__logo {
+  color: inherit;
+}
+
+.page-header__nav {
+  margin-left: 93px;
+}
+
+.page-header__contacts {
+  margin-left: 345px;
+}
