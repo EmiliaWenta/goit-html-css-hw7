@@ -11,16 +11,16 @@
   padding-top: 25px;
   padding-bottom: 25px;
   gap: 0px;
-}
 
-.page-header__logo {
-  color: inherit;
-}
+  &__logo {
+    color: inherit;
+  }
 
-.page-header__nav {
-  margin-left: 93px;
-}
+  &__nav {
+    margin-left: 93px;
+  }
 
-.page-header__contacts {
-  margin-left: 345px;
+  &__contacts {
+    margin-left: 345px;
+  }
 }
